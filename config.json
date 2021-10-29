@@ -1,0 +1,9 @@
+{
+	"ip":"shariqnetwork.aternos.me",
+	"port": 11941,
+	"name": "deadly man 24/7",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (shariqbot) (shariqbot)",
+	"login-cmd":"/login (shariqbot)"
+}
